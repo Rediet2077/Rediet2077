@@ -41,7 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rediet2077&show_icons=true&locale=en" alt="rediet2077" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rediet2077&show_icons=true&locale=en&layout=compact" alt="rediet2077" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rediet2077&" alt="rediet2077" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rediet2077" alt="rediet2077" /></a> </p>
 
 ---
 
